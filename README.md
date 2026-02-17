@@ -1,7 +1,7 @@
 # MyFinance: Docusign Sample Application
 
 ## Introduction
-MyFinance is a Docusign sample application showcasing how you can integrate Docusign and Salesforce with the Apex Toolkit. You can find a live instance running at [https://myfinance.sampleapps.docusign.com](https://docusignsamplefinance-developer-edition.na156.force.com/myfinance/s/).
+MyFinance is a Docusign sample application showcasing how you can integrate Docusign and Salesforce with the Apex Toolkit. You can find a live instance running at [https://salesforce.sampleapps.docusign.com/s/](https://salesforce.sampleapps.docusign.com/s/).
  
 
 The examples were created using these Docusign APIs and features:
